@@ -1,4 +1,4 @@
-# Module-19-JATE(text-editor)
+# JATE(text-editor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ## Description
 In this Homework for module 19 we were tasked with creating an application that helps us create notes/code-snippets that works offline, uses a service worker to help us cache items and uses an IndexedDB to create an object store with PUT and GET methods
