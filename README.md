@@ -16,10 +16,15 @@ In this Homework for module 19 we were tasked with creating an application that 
 4. When the above steps are completed you can open the browser and type in ``` localhost:3000 ``` which will bring you to the final application!
 
 ## Built with
-
+- HTML
+- CSS
+- ExpressJS
+- Javascript
+- IndexDB
+- Service Workers
 
 ## License 
-
+This repo has the MIT license 
 
 ## Screenshots
 
