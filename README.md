@@ -7,7 +7,7 @@
 - [Built with](#built-with)
 - [License](#license)
 - [Screenshots](#screenshots)
-- [Heroku link](#(https://honest-hippo.herokuapp.com/))
+- [Heroku link](https://honest-hippo.herokuapp.com/)
 
 ## Installation
 
