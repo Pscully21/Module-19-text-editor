@@ -28,8 +28,8 @@ This repo has the MIT license
 
 ## Screenshots
 The screenshots below are of the application itself and when looking in the application tab via inspect. I was able to get the indexedDB to work properly however, when changing some things around, Inspect now says I do not have a service worker. I have made one and saw it for a period of time however when I was trying to get the install function to work I changed some code in my ``` src-sw.js ``` file which ended up in the service worker not being recognized in the inspect window
--(./client/images/application.png)
--(./client/images/inspect.png)
+![screenshots](./client/images/application.png)
+![screenshots](./client/images/inspect.png)
 
 ## Heroku link
 https://honest-hippo.herokuapp.com/
